@@ -1,0 +1,54 @@
+body{
+    background-image: linear-gradient(rgb(92, 172, 199), rgb(0, 0, 88)); 
+  font-family: verdana, arial, helvetica ;
+  max-width:900px;
+margin: auto;
+}
+.titulo-nome{
+font: size 40px;
+text-transform: uppercase;
+text-align: center;
+}
+a{
+    text-decoration: line-through;
+    color: #505050;
+}
+.foto-perfil{
+    border-radius: 500px;
+    max-height: 100px;
+   margin:auto;
+   border: 1px solid #505050;
+}
+.title-principal{
+font: size 20px;
+margin-top: 5px;
+}
+.post{
+ font-size: 16px;
+font-style: italic;
+color:blue;
+}
+.post-img{
+max-height: 500px;
+max-width: 900px;
+}
+.post-article{
+    background-color:whitesmoke;
+    padding: 10px;
+    border: 3px solid #505050;
+    margin: 0px;
+    opacity: 0.9;
+    border-radius: 5px;
+}
+.post-content{
+    text-align: center;
+}
+.contacts-list{
+    list-style-type: none;
+    padding-left: 15px;
+
+}
+ .contacts-list li a{
+color: blue;
+text-decoration: none;
+}
